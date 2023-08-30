@@ -5,4 +5,4 @@
 - EC2 통해 Springboot 서버 배포
 - 도메인 연결
 
-> 배포 과정은 [배포 과정](https://nicemooji.tistory.com/65) 참고 👍
+> 배포 과정은 [배포 과정](https://nicemooji.tistory.com/65) 참고 👍 
